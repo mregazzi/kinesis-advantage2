@@ -1,0 +1,9 @@
+{rctrl}{lctrl}{e}>{`}{e}
+{rctrl}{lctrl}{a}>{`}{a}
+{rctrl}{lctrl}{i}>{`}{i}
+{rctrl}{lctrl}{u}>{`}{u}
+{rctrl}{lctrl}{o}>{`}{o}
+{'}>{'}{space}
+{`}>{`}{space}
+{lshift}{'}>{-lshift}{'}{+lshift}{space}
+{lshift}{`}>{-lshift}{`}{+lshift}{space}
