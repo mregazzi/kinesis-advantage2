@@ -7,3 +7,4 @@
 {`}>{`}{space}
 {lshift}{'}>{-lshift}{'}{+lshift}{space}
 {lshift}{`}>{-lshift}{`}{+lshift}{space}
+[rwin]>[lwin]
