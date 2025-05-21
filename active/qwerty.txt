@@ -1,10 +1,11 @@
-{rctrl}{lctrl}{e}>{`}{e}
-{rctrl}{lctrl}{a}>{`}{a}
-{rctrl}{lctrl}{i}>{`}{i}
-{rctrl}{lctrl}{u}>{`}{u}
-{rctrl}{lctrl}{o}>{`}{o}
-{'}>{'}{space}
-{`}>{`}{space}
-{lshift}{'}>{-lshift}{'}{+lshift}{space}
-{lshift}{`}>{-lshift}{`}{+lshift}{space}
+{rctrl}{lctrl}{e}>{speed 9}{`}{e}
+{lalt}{lctrl}{e}>{speed 9}{'}{e}
+{rctrl}{lctrl}{a}>{speed 9}{`}{a}
+{rctrl}{lctrl}{i}>{speed 9}{`}{i}
+{rctrl}{lctrl}{u}>{speed 9}{`}{u}
+{rctrl}{lctrl}{o}>{speed 9}{`}{o}
+{'}>{speed 9}{'}{space}
+{`}>{speed 9}{`}{space}
+{lshift}{'}>{speed 9}{-lshift}{'}{+lshift}{space}
+{lshift}{`}>{speed 9}{-lshift}{`}{+lshift}{space}
 [rwin]>[lwin]
