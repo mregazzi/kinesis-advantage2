@@ -3,4 +3,6 @@ In the very first release of these files, I just updated the QWERTY one in order
 
 You need to set a US International layout in your OS so the keyboard is able to understand the combination of characters such as ' and ` and " with lowercase vowels such as a and e etc. 
 
-A similar configuration could be done for uppercase vowels but they are not common in Italian text.
+Use both CTRL keys + any vowels to obtain the accented version (grave).
+Use left ALT + right CTRL to obtain the acute one (only the e vowel, you can add the others but they are not common).
+Use the left SHIFT + both CTRL for the uppercase vowels (grave).
