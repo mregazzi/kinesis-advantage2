@@ -1,9 +1,14 @@
 {rctrl}{lctrl}{e}>{speed 9}{`}{e}
 {lalt}{lctrl}{e}>{speed 9}{'}{e}
+{lshift}{rctrl}{lctrl}{e}>{speed 9}{caps}{`}{e}{caps}
 {rctrl}{lctrl}{a}>{speed 9}{`}{a}
+{lshift}{rctrl}{lctrl}{a}>{speed 9}{caps}{`}{a}{caps}
 {rctrl}{lctrl}{i}>{speed 9}{`}{i}
+{lshift}{rctrl}{lctrl}{i}>{speed 9}{caps}{`}{i}{caps}
 {rctrl}{lctrl}{u}>{speed 9}{`}{u}
+{lshift}{rctrl}{lctrl}{u}>{speed 9}{caps}{`}{u}{caps}
 {rctrl}{lctrl}{o}>{speed 9}{`}{o}
+{lshift}{rctrl}{lctrl}{o}>{speed 9}{caps}{`}{o}{caps}
 {'}>{speed 9}{'}{space}
 {`}>{speed 9}{`}{space}
 {lshift}{'}>{speed 9}{-lshift}{'}{+lshift}{space}
